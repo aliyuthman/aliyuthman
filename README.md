@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyuthman&hide=python,powershell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyuthman&hide=python,powershell,batchfile)](https://github.com/anuraghazra/github-readme-stats)
 [![Authman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliyuthman&count_private=true&theme=dark)](https://github.com/aliyuthman/github-readme-stats)
