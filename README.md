@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=aliyuthman)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyuthman&layout=compact&hide=python,powershell,batchfile)](https://github.com/anuraghazra/github-readme-stats)
-[![Authman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliyuthman&show_icons=true&count_private=true)](https://github.com/aliyuthman/github-readme-stats)
