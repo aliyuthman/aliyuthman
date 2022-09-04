@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Authman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliyuthman&count_private=true)](https://github.com/aliyuthman/github-readme-stats)
+[![Authman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliyuthman&count_private=true&theme=dark)](https://github.com/aliyuthman/github-readme-stats)
